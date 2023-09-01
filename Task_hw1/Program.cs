@@ -1,4 +1,5 @@
-﻿int Number( string message)
+﻿// Задача 
+int Number( string message)
 {
     System.Console.Write(message);
     string ReadInput = System.Console.ReadLine();
